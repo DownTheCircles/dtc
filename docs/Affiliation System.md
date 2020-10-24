@@ -1,5 +1,5 @@
 # Affiliation System
 
-![](/home/peter/Downloads/dtc_docs_img/AffiliationSystem.png)
+![Affiliation system](https://i.ibb.co/1fWj1sk/Affiliation-System.png)
 
 
