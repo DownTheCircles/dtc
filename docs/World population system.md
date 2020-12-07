@@ -26,4 +26,4 @@ The end result will be that there are going to be just a few active trees, on a 
 
 * World behavior tree active- providing type and distribution of NPCs between circles
 
-![Multiple trees visualized](https://i.ibb.co/k44fQxf/Behavior-Tree-Layers-System-Page-2.png)
+![Multiple trees illustration](https://i.ibb.co/KzGVfPP/Behavior-Tree-Layers-System-Page-2.png)
